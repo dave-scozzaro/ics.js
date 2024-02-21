@@ -77,3 +77,6 @@ Credits
 ------------------
 * [Travis Krause](https://github.com/nwcell): Me
 * [Kyle Hornberg](https://github.com/khornberg): Added multi event functionality and made everything a package firendly
+
+-----
+How to integrate with Qualtrics: https://community.qualtrics.com/custom-code-12/email-trigger-to-include-an-outlook-calendar-invite-925
